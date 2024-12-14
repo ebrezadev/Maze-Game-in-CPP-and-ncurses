@@ -1,18 +1,18 @@
 # Randomly Generated Maze Game in C++ and ncurses
 
-![Alt text](screenshots/Screenshot\from\2024-12-14\21-01-48.png)
+![Alt text](screenshots/1.png)
 
+![Alt text](screenshots/2.png)
 
-![[Screenshot from 2024-12-14 21-01-58.png]]
+![Alt text](screenshots/3.png)
 
-![[Screenshot from 2024-12-14 21-02-20.png]]
+![Alt text](screenshots/4.png)
 
-![[Screenshot from 2024-12-14 21-02-32.png]]
+![Alt text](screenshots/5.png)
 
-![[Screenshot from 2024-12-14 21-03-00.png]]
+![Alt text](screenshots/6.png)
 
-![[Screenshot from 2024-12-14 21-03-23.png]]
+![Alt text](screenshots/7.png)
 
-![[Screenshot from 2024-12-14 21-04-03.png]]
+![Alt text](screenshots/8.png)
 
-![[Screenshot from 2024-12-12 07-50-29.png]]
