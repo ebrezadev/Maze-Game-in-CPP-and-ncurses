@@ -1,6 +1,6 @@
 # Randomly Generated Maze Game in C++ and ncurses
 
-![Alt text](screenshots/Screenshot from 2024-12-14 21-01-48.png)
+![Alt text](screenshots/Screenshot\from\2024-12-14\21-01-48.png)
 
 
 ![[Screenshot from 2024-12-14 21-01-58.png]]
