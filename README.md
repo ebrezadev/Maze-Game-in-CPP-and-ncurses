@@ -1,1 +1,1 @@
-# Maze-Game-in-CPP-and-ncurses
+# Randomly Generated Maze Game in C++ and ncurses
